@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #f7cac9, #d092d1);
+    color: #333;
+}
+
+#about-me {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#fun-facts {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+
+#fun-facts h2 {
+    text-align: center;
+}
+
+.fact:hover {
+    background-color: #2cbd0f;
+    color: #fff;
+}
+
+.lie:hover {
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+}
